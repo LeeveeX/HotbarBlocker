@@ -1,0 +1,11 @@
+name: HotbarBlocker
+version: 1.0.0
+main: com.leevee.hotbarblocker.HotbarBlocker
+description: A plugin that blocks players from changing their hotbar slots
+author: LeeveeX
+website: https://github.com/LeeveeX/HotbarBlocker
+
+permissions:
+  hotbarblocker.allow:
+    description: Allows the player to change hotbar slots
+    default: op
